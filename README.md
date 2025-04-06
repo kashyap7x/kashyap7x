@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I am a PhD student at the University of Tübingen, Germany, where I am part of the [Autonomous Vision Group](https://github.com/autonomousvision). 
+I am a a Postdoctoral Researcher at the [NVIDIA Autonomous Vehicle Research Group](https://research.nvidia.com/labs/avg/) working from Tübingen, Germany.
 
- - 🔭 I am excited about data-driven solutions to complex decision-making tasks. Currently, my research focuses on self-driving vehicles.
-
- - 📫 If you have questions, feel free to contact me at kashyap.chitta@uni-tuebingen.de
+ - 🔭 I am excited about data-driven solutions to complex decision-making tasks. Currently, my research focuses on simulation-based training and evaluation of embodied AI systems.
 
 <!--
 **kashyap7x/kashyap7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
