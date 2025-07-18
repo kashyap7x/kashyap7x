@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a a Postdoctoral Researcher at the [NVIDIA Autonomous Vehicle Research Group](https://research.nvidia.com/labs/avg/) working from Tübingen, Germany.
+I am a Postdoctoral Researcher at the [NVIDIA Autonomous Vehicle Research Group](https://research.nvidia.com/labs/avg/) working from Tübingen, Germany.
 
  - 🔭 I am excited about data-driven solutions to complex decision-making tasks. Currently, my research focuses on simulation-based training and evaluation of embodied AI systems.
 
