@@ -2,7 +2,7 @@
 
 I am a Postdoctoral Researcher at the [NVIDIA Autonomous Vehicle Research Group](https://research.nvidia.com/labs/avg/) working from Tübingen, Germany.
 
- - 🔭 I am excited about data-driven solutions to complex decision-making tasks. Currently, my research focuses on simulation-based training and evaluation of embodied AI systems.
+ - 🔭 I am excited about data-driven solutions to complex decision-making tasks. Currently, my research focuses on simulation-based training and evaluation of Physical AI systems.
 
 <!--
 **kashyap7x/kashyap7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
