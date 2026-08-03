@@ -1,1 +1,1 @@
-I am an AI researcher currently focusing on visual reasoning and causal world models.
+I am an AI researcher currently focusing on multimodal reasoning and causal world models.
